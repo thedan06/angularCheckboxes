@@ -1,0 +1,27 @@
+.container{
+    padding: 20px;
+    margin: 10px;
+    font-size: 1.2em;
+    
+    /* border: 1px solid red; */
+}
+
+.players{
+    float: left;
+    width: 45%;
+    height: inherit;
+
+    /* border: 1px solid green; */
+}
+
+.output{
+    float: right;
+    width: 45%;
+    height: inherit;
+
+    /* border: 1px solid green; */
+}
+
+#result{
+    font-size: 2em;
+}
